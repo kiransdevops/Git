@@ -1,0 +1,32 @@
+Git Introduction
+................
+Continuous Development is the phase that involves ‘planning and coding of the software. 
+The vision of the project is decided during the planning phase and the developers begin developing the code for the application. 
+There are no DevOps tools that are required for planning, but there are a number of tools for maintaining the code.
+The code can be written in any language, but it is maintained by using Version Control tools. 
+Maintaining the code is referred to as Source Code Management. 
+The most popular tools used are Git, SVN, Mercurial, CVS, and JIRA. 
+Also tools like Ant, Maven, and Gradle can be used in this phase for building/ packaging the code into an executable file that can be forwarded to any of the next phases.
+
+Now let us try to know a bit more about Git.
+Git is a distributed version control tool that supports distributed non-linear workflows by providing data assurance for developing quality software. 
+Tools like Git enable communication between the development and the operations team.
+When you are developing a large project with a huge number of collaborators, it is very important to have communication between the collaborators while making changes in the project.
+Commit messages in Git, will play a very important role in communicating among the team. 
+Apart from communication, the most important reason to use Git is that you always have a stable version of the code with you.
+Hence, Git plays a vital role in succeeding at DevOps.
+
+Phases of DevOps Lifecycle
+1.	Plan
+2.	Code (SCM)	: Github, Gitlab, Gitbucket, Azure repos, SVN
+3.	Build
+4.	Test
+5.	Release
+6.	Deploy
+7.	Operate
+8.	Monitor
+Github: Version Control System
+	Local version control system
+  Centralized version control system - SVN 
+	Distributed version control system – Github
+
