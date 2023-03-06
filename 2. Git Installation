@@ -1,0 +1,18 @@
+Go to https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
+go to https://git-scm.com/download/win  for windows
+Choose
+  32-bit Git for Windows Setup.
+          or
+  64-bit Git for Windows Setup.
+
+Git and Github
+..............
+Git is a software in the local machine
+
+Github is a service which is hosted in the Cloud.
+
+Create new account in Github
+https://github.com/kiransdevops
+
+*If you want to save your code in Github, you need to create a repository.
+go to git-bash and start the working on git
